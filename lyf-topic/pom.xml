@@ -10,7 +10,7 @@
     </parent>
     <groupId>com.lyf.check</groupId>
     <artifactId>lyf-topic</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>0.0.1-SNAPSHOT</version> 
     <name>lyf-topic</name>
     <description>话题服务</description>
 
