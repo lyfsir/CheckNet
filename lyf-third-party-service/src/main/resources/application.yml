@@ -12,7 +12,7 @@ spring:
       secret-key: RvaX1en6NP5pUwkhm8e3CYAdRpKQOl
     nacos:
       discovery:
-        server-addr: 112.124.12.211:8848
+        server-addr: 192.168.230.133:8848
 
   application:
     name: lyf-third-party-service

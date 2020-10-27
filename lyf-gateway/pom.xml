@@ -15,7 +15,7 @@
     <description>统一网关服务</description>
 
     <properties>
-        <java.version>1.8</java.version>
+        <java.version>1.8</java.version> 
         <spring-cloud.version>Hoxton.SR5</spring-cloud.version>
     </properties>
 
